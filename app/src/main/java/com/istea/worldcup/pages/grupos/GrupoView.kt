@@ -17,7 +17,6 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import com.istea.worldcup.R
 import com.istea.worldcup.domain.Group
-import com.istea.worldcup.pages.detalle.Cargando
 import com.istea.worldcup.pages.grupos.GruposIntention.*
 
 @OptIn(ExperimentalMaterial3Api::class)
